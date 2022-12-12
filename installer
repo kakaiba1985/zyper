@@ -70,11 +70,11 @@ tput cnorm
 show_menu () {
 echo -e "                $GREEN
 
- $RESET"
+$RESET"
  
  echo -e "                $RED
-           
-		   Ubunto SETUP by Dolor Antukab
+|    
+               Ubunto SETUP by Dolor Antukab 
 $RESET"
 }
 services () {
